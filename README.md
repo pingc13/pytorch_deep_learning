@@ -14,3 +14,4 @@ This will be the homepage recording my learning process of PyTorch for Deep Lear
 
 ## log
 - 12-02-22 set up the learning repository
+- 13-02-22 finished chapter0 PyTorch Fundamentals √

@@ -3,8 +3,8 @@ This will be the homepage recording my learning process of PyTorch for Deep Lear
 
 ## outline
 ~~00. PyTorch Fundamentals~~
-01. PyTorch Workflow Fundamentals
-02. Neural Network Classification with PyTorch
+~~01. PyTorch Workflow Fundamentals
+~~02. Neural Network Classification with PyTorch
 03. PyTorch Computer Vision
 04. PyTorch Custom Datasets
 05. Going modular
@@ -15,3 +15,5 @@ This will be the homepage recording my learning process of PyTorch for Deep Lear
 ## log
 - 12-02-22 set up the learning repository
 - 13-02-22 finished chapter0 PyTorch Fundamentals √
+- 11-03-22 finished chapter1 PyTorch Workflow √
+- 11-03-22 finished chapter2 ANN Classification √
